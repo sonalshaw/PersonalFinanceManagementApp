@@ -1,0 +1,42 @@
+[
+  {
+    "username": "john_doe",
+    "transactions": [
+      {
+        "description": "Salary",
+        "amount": 3000,
+        "type": "income",
+        "date": "2024-01-01"
+      },
+      {
+        "description": "Grocery Shopping",
+        "amount": 150,
+        "type": "expense",
+        "date": "2024-01-02"
+      },
+      {
+        "description": "Electricity Bill",
+        "amount": 75,
+        "type": "expense",
+        "date": "2024-01-05"
+      }
+    ]
+  },
+  {
+    "username": "jane_smith",
+    "transactions": [
+      {
+        "description": "Freelance Work",
+        "amount": 500,
+        "type": "income",
+        "date": "2024-01-03"
+      },
+      {
+        "description": "Restaurant",
+        "amount": 80,
+        "type": "expense",
+        "date": "2024-01-04"
+      }
+    ]
+  }
+]
